@@ -1,5 +1,5 @@
 # 设计模式(DesignPattern) #
-**根据HeadFirst设计模式这一书写的各种设计模式的例子加深印象**
+**根据HeadFirst设计模式这一书写的各种设计模式的例子(_C#_)加深印象**
 ## 策略模式(StrategyPattern) ##
 UM007.DesignPatternTest.StrategyPattern
 ## 观察者模式(ObserverPattern) ##
