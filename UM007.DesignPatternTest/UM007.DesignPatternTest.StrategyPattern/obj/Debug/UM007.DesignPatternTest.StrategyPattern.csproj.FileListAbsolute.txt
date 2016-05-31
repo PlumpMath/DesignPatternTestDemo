@@ -1,0 +1,7 @@
+E:\chao_code\ASPNet\UM007.DesignPatternTest\UM007.DesignPatternTest.StrategyPattern\bin\Debug\UM007.DesignPatternTest.StrategyPattern.exe.config
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.StrategyPattern\bin\Debug\UM007.DesignPatternTest.StrategyPattern.exe.config
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.StrategyPattern\bin\Debug\UM007.DesignPatternTest.StrategyPattern.exe
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.StrategyPattern\bin\Debug\UM007.DesignPatternTest.StrategyPattern.pdb
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.StrategyPattern\obj\Debug\UM007.DesignPatternTest.StrategyPattern.csprojResolveAssemblyReference.cache
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.StrategyPattern\obj\Debug\UM007.DesignPatternTest.StrategyPattern.exe
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.StrategyPattern\obj\Debug\UM007.DesignPatternTest.StrategyPattern.pdb
