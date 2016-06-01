@@ -1,0 +1,6 @@
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.SimpleFactoryPattern\bin\Debug\UM007.DesignPatternTest.SimpleFactoryPattern.exe.config
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.SimpleFactoryPattern\bin\Debug\UM007.DesignPatternTest.SimpleFactoryPattern.exe
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.SimpleFactoryPattern\bin\Debug\UM007.DesignPatternTest.SimpleFactoryPattern.pdb
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.SimpleFactoryPattern\obj\Debug\UM007.DesignPatternTest.SimpleFactoryPattern.csprojResolveAssemblyReference.cache
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.SimpleFactoryPattern\obj\Debug\UM007.DesignPatternTest.SimpleFactoryPattern.exe
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.SimpleFactoryPattern\obj\Debug\UM007.DesignPatternTest.SimpleFactoryPattern.pdb

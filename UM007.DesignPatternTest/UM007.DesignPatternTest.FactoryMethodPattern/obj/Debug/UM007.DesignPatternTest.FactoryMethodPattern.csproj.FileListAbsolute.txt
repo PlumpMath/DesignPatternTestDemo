@@ -1,0 +1,6 @@
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.FactoryMethodPattern\bin\Debug\UM007.DesignPatternTest.FactoryMethodPattern.exe.config
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.FactoryMethodPattern\obj\Debug\UM007.DesignPatternTest.FactoryMethodPattern.csprojResolveAssemblyReference.cache
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.FactoryMethodPattern\bin\Debug\UM007.DesignPatternTest.FactoryMethodPattern.exe
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.FactoryMethodPattern\bin\Debug\UM007.DesignPatternTest.FactoryMethodPattern.pdb
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.FactoryMethodPattern\obj\Debug\UM007.DesignPatternTest.FactoryMethodPattern.exe
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.FactoryMethodPattern\obj\Debug\UM007.DesignPatternTest.FactoryMethodPattern.pdb
