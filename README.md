@@ -6,7 +6,13 @@ UM007.DesignPatternTest.StrategyPattern
 UM007.DesignPatternTest.ObserverPattern
 ## 装饰者模式(DecoratorPattern) ##
 UM007.DesignPatternTest.DecoratorPattern
-## 工厂模式 ##
+## 工厂模式(FactoryPattern) ##
+### 简单工厂(SimpleFactory) ###
+UM007.DesignPatternTest.SimpleFactoryPattern
+### 工厂方法模式(FactoryMethodPattern) ###
+UM007.DesignPatternTest.FactoryMethodPattern
+### 抽象工厂模式(AbstractFactoryPattern) ###
+UM007.DesignPatternTest.AbstractFactoryPattern
 ## 单件模式 ##
 ## 命令模式 ##
 ## 适配器模式 ##
