@@ -4,7 +4,8 @@
 UM007.DesignPatternTest.StrategyPattern
 ## 观察者模式(ObserverPattern) ##
 UM007.DesignPatternTest.ObserverPattern
-## 装饰者模式 ##
+## 装饰者模式(DecoratorPattern) ##
+UM007.DesignPatternTest.DecoratorPattern
 ## 工厂模式 ##
 ## 单件模式 ##
 ## 命令模式 ##
