@@ -13,7 +13,8 @@ UM007.DesignPatternTest.SimpleFactoryPattern
 UM007.DesignPatternTest.FactoryMethodPattern
 ### 抽象工厂模式(AbstractFactoryPattern) ###
 UM007.DesignPatternTest.AbstractFactoryPattern
-## 单件模式 ##
+## 单件模式(SingletonPattern) ##
+UM007.DesignPatternTest.SingletonPattern
 ## 命令模式 ##
 ## 适配器模式 ##
 ## 外观模式 ##
