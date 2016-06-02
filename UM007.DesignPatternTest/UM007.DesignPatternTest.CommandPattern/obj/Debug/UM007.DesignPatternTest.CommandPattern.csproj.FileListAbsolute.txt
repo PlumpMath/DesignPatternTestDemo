@@ -1,0 +1,6 @@
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.CommandPattern\bin\Debug\UM007.DesignPatternTest.CommandPattern.exe.config
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.CommandPattern\bin\Debug\UM007.DesignPatternTest.CommandPattern.exe
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.CommandPattern\bin\Debug\UM007.DesignPatternTest.CommandPattern.pdb
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.CommandPattern\obj\Debug\UM007.DesignPatternTest.CommandPattern.csprojResolveAssemblyReference.cache
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.CommandPattern\obj\Debug\UM007.DesignPatternTest.CommandPattern.exe
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.CommandPattern\obj\Debug\UM007.DesignPatternTest.CommandPattern.pdb

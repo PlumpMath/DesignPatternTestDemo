@@ -1,0 +1,8 @@
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.SingletonPattern\bin\Debug\UM007.DesignPatternTest.SingletonPattern.exe.config
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.SingletonPattern\bin\Debug\UM007.DesignPatternTest.SingletonPattern.exe
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.SingletonPattern\bin\Debug\UM007.DesignPatternTest.SingletonPattern.pdb
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.SingletonPattern\obj\Debug\UM007.DesignPatternTest.SingletonPattern.csprojResolveAssemblyReference.cache
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.SingletonPattern\obj\Debug\UM007.DesignPatternTest.SingletonPattern.Properties.Resources.resources
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.SingletonPattern\obj\Debug\UM007.DesignPatternTest.SingletonPattern.csproj.GenerateResource.Cache
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.SingletonPattern\obj\Debug\UM007.DesignPatternTest.SingletonPattern.exe
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.SingletonPattern\obj\Debug\UM007.DesignPatternTest.SingletonPattern.pdb

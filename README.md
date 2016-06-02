@@ -15,7 +15,8 @@ UM007.DesignPatternTest.FactoryMethodPattern
 UM007.DesignPatternTest.AbstractFactoryPattern
 ## 单件模式(SingletonPattern) ##
 UM007.DesignPatternTest.SingletonPattern
-## 命令模式 ##
+## 命令模式(CommandPattern) ##
+UM007.DesignPatternTest.CommandPattern
 ## 适配器模式 ##
 ## 外观模式 ##
 ## 模板方法模式 ##
