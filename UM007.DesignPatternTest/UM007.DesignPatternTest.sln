@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UM007.DesignPatternTest.Abs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UM007.DesignPatternTest.SingletonPattern", "UM007.DesignPatternTest.SingletonPattern\UM007.DesignPatternTest.SingletonPattern.csproj", "{076669DC-D7B0-44A5-ACE2-9B6DA0DDA126}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UM007.DesignPatternTest.CommandPattern", "UM007.DesignPatternTest.CommandPattern\UM007.DesignPatternTest.CommandPattern.csproj", "{D15379EF-4D90-4689-8B28-B15BD0AB7B02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{076669DC-D7B0-44A5-ACE2-9B6DA0DDA126}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{076669DC-D7B0-44A5-ACE2-9B6DA0DDA126}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{076669DC-D7B0-44A5-ACE2-9B6DA0DDA126}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D15379EF-4D90-4689-8B28-B15BD0AB7B02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D15379EF-4D90-4689-8B28-B15BD0AB7B02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D15379EF-4D90-4689-8B28-B15BD0AB7B02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D15379EF-4D90-4689-8B28-B15BD0AB7B02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
