@@ -17,12 +17,15 @@ UM007.DesignPatternTest.AbstractFactoryPattern
 UM007.DesignPatternTest.SingletonPattern
 ## 命令模式(CommandPattern) ##
 UM007.DesignPatternTest.CommandPattern
-## 适配器模式 ##
+## 适配器模式(AdapterPattern) ##
 UM007.DesignPatternTest.AdapterPattern
-## 外观模式 ##
+## 外观模式(FacadePattern) ##
 UM007.DesignPatternTest.FacadePattern
-## 模板方法模式 ##
-## 迭代器与组合模式 ##
+## 模板方法模式(TemplateMethodPattern) ##
+UM007.DesignPatternTest.TemplateMethodPattern
+## 迭代器模式(IteratorPattern) ##
+UM007.DesignPatternTest.IteratorPattern
+## 与组合模式 ##
 ## 状态模式 ##
 ## 代理模式 ##
 ## 复合模式 ##

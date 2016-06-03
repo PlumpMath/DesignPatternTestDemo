@@ -1,4 +1,6 @@
-﻿namespace UM007.DesignPatternTest.StrategyPattern
+﻿using System;
+
+namespace UM007.DesignPatternTest.StrategyPattern
 {
     class Program
     {
