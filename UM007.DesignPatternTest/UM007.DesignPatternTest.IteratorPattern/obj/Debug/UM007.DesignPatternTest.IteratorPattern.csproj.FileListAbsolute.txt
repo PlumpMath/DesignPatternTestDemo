@@ -1,0 +1,6 @@
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.IteratorPattern\bin\Debug\UM007.DesignPatternTest.IteratorPattern.exe.config
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.IteratorPattern\bin\Debug\UM007.DesignPatternTest.IteratorPattern.exe
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.IteratorPattern\bin\Debug\UM007.DesignPatternTest.IteratorPattern.pdb
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.IteratorPattern\obj\Debug\UM007.DesignPatternTest.IteratorPattern.csprojResolveAssemblyReference.cache
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.IteratorPattern\obj\Debug\UM007.DesignPatternTest.IteratorPattern.exe
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.IteratorPattern\obj\Debug\UM007.DesignPatternTest.IteratorPattern.pdb
