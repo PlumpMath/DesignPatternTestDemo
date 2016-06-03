@@ -18,7 +18,9 @@ UM007.DesignPatternTest.SingletonPattern
 ## 命令模式(CommandPattern) ##
 UM007.DesignPatternTest.CommandPattern
 ## 适配器模式 ##
+UM007.DesignPatternTest.AdapterPattern
 ## 外观模式 ##
+UM007.DesignPatternTest.FacadePattern
 ## 模板方法模式 ##
 ## 迭代器与组合模式 ##
 ## 状态模式 ##
