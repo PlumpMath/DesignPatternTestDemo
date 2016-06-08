@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UM007.DesignPatternTest.Tem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UM007.DesignPatternTest.IteratorPattern", "UM007.DesignPatternTest.IteratorPattern\UM007.DesignPatternTest.IteratorPattern.csproj", "{20084F7F-1F91-4475-B773-DE4FA7A151E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UM007.DesignPatternTest.CompositePattern", "UM007.DesignPatternTest.CompositePattern\UM007.DesignPatternTest.CompositePattern.csproj", "{CC950EC3-C223-4910-9951-17D1032EAEA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UM007.DesignPatternTest.StatePattern", "UM007.DesignPatternTest.StatePattern\UM007.DesignPatternTest.StatePattern.csproj", "{6A41A665-941C-466B-83AD-E865ADA023DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{20084F7F-1F91-4475-B773-DE4FA7A151E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20084F7F-1F91-4475-B773-DE4FA7A151E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20084F7F-1F91-4475-B773-DE4FA7A151E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC950EC3-C223-4910-9951-17D1032EAEA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC950EC3-C223-4910-9951-17D1032EAEA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC950EC3-C223-4910-9951-17D1032EAEA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC950EC3-C223-4910-9951-17D1032EAEA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A41A665-941C-466B-83AD-E865ADA023DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A41A665-941C-466B-83AD-E865ADA023DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A41A665-941C-466B-83AD-E865ADA023DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A41A665-941C-466B-83AD-E865ADA023DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

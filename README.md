@@ -25,7 +25,9 @@ UM007.DesignPatternTest.FacadePattern
 UM007.DesignPatternTest.TemplateMethodPattern
 ## 迭代器模式(IteratorPattern) ##
 UM007.DesignPatternTest.IteratorPattern
-## 与组合模式 ##
-## 状态模式 ##
+## 组合模式(CompositePattern)★★★  ##
+UM007.DesignPatternTest.CompositePattern
+## 状态模式(StatePattern) ##
+UM007.DesignPatternTest.StatePattern
 ## 代理模式 ##
 ## 复合模式 ##
