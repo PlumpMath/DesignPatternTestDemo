@@ -1,0 +1,6 @@
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.CompositePattern\bin\Debug\UM007.DesignPatternTest.CompositePattern.exe.config
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.CompositePattern\obj\Debug\UM007.DesignPatternTest.CompositePattern.csprojResolveAssemblyReference.cache
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.CompositePattern\bin\Debug\UM007.DesignPatternTest.CompositePattern.exe
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.CompositePattern\bin\Debug\UM007.DesignPatternTest.CompositePattern.pdb
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.CompositePattern\obj\Debug\UM007.DesignPatternTest.CompositePattern.exe
+E:\chao_code\ASPNet\DesignPatternTestDemo\UM007.DesignPatternTest\UM007.DesignPatternTest.CompositePattern\obj\Debug\UM007.DesignPatternTest.CompositePattern.pdb
